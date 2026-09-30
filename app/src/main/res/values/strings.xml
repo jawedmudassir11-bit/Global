@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Global Industries Site Management</string>
-    <string name="target_url">https://jawedmudassir11-bit.github.io/Global/</string>
+    <string name="target_url">https://jawedmudassir11-bit.github.io/Global-Industries/</string>
     <string name="error_no_browser">No web browser found on this device to open the link.</string>
 </resources>
