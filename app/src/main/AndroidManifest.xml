@@ -27,7 +27,7 @@
             android:exported="true"
             android:noHistory="true"
             android:excludeFromRecents="true"
-            android:theme="@android:style/Theme.NoDisplay"
+            android:theme="@style/Theme.GlobalIndustriesSiteManagement"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
