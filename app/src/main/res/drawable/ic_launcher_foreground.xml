@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Globe Outer Circle -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 54,24 A 30,30 0 1,0 54,84 A 30,30 0 1,0 54,24 Z"
+        android:strokeColor="#804A21"
+        android:strokeWidth="2.2" />
+
+    <!-- Top Latitude Line -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 28,39 L 80,39"
+        android:strokeColor="#804A21"
+        android:strokeWidth="2.2" />
+
+    <!-- Bottom Latitude Line -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 28,69 L 80,69"
+        android:strokeColor="#804A21"
+        android:strokeWidth="2.2" />
+
+    <!-- Left Longitude Arc -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 54,24 C 41,34 37.5,44 37.5,54 C 37.5,64 41,74 54,84"
+        android:strokeColor="#804A21"
+        android:strokeWidth="2.2" />
+
+    <!-- Right Longitude Arc -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 54,24 C 67,34 70.5,44 70.5,54 C 70.5,64 67,74 54,84"
+        android:strokeColor="#804A21"
+        android:strokeWidth="2.2" />
+
+    <!-- Center Banner -->
+    <path
+        android:fillColor="#804A21"
+        android:pathData="M 20,46 L 88,46 L 88,62 L 20,62 Z" />
+
+    <!-- Letter G -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54.9,49 L 50.7,49 C 49.5,49 48.9,49.6 48.9,50.8 L 48.9,57.2 C 48.9,58.4 49.5,59 50.7,59 L 54.9,59 L 54.9,53.2 L 52.5,53.2 L 52.5,55.0 L 53.1,55.0 L 53.1,57.2 L 50.7,57.2 L 50.7,50.8 L 54.9,50.8 Z" />
+
+    <!-- Letter I -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 56.9,49 L 59.1,49 L 59.1,59 L 56.9,59 Z" />
+</vector>
