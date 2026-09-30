@@ -53,6 +53,7 @@ android {
 dependencies {
     implementation(libs.androidx.activity.ktx)
     implementation(libs.androidx.appcompat)
+    implementation(libs.androidx.browser)
     implementation(libs.androidx.constraintlayout)
     implementation(libs.androidx.core.ktx)
     implementation(libs.material)
